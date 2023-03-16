@@ -27,8 +27,12 @@
   }
 
 .startlogo {
-    max-height: 35vh !important;
+    max-height: 30vh !important;
     padding: 1rem;
+}
+.startlogo img {
+    width: 100%;
+    height: 100%;
 }
 .flex-text {
     display: flex;

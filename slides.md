@@ -31,7 +31,9 @@ favicon: https://fossgis-konferenz.de/favicon.ico
 ## Das neue Geodatenportal der 
 ## „Marinen Dateninfrastruktur Deutschland (MDI-DE)“
 
-<img src="/public/mdide_partner_map.png" class="startlogo">
+<div class="startlogo">
+  <img src="/public/mdide_partner_map.png" />
+</div>
 
 #### MDIDE & terrestris 2023
 
@@ -92,7 +94,7 @@ image: https://terrestris.github.io/fossgis2023_talk_mdi/portal-screenshot.png
 class: screenshot
 ---
 
-## Das Portal, der Zugang zur MDI-DE
+<h2>Das Portal, der Zugang zur MDI-DE</h2>
 
 ---
 layout: main
