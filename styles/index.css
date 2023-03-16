@@ -1,0 +1,83 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 7vh;
+    background: #1b355a;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+}
+#page-root {
+    font-family: 'Inter' !important;
+    color: #1b355a !important;
+}
+
+.slidev-layout {
+    padding-right: 0.7rem !important;
+    padding-left: 0.7rem !important;
+}
+.slidev-layout .social ul {
+    list-style: none !important;
+  }
+
+.startlogo {
+    max-height: 35vh !important;
+    padding: 1rem;
+}
+.flex-text {
+    display: flex;
+    font-size: 1.0rem;
+    align-items: center;
+    padding-top: 2vh;
+    height: 100%;
+}
+.bullets {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    /* align-self: flex-start; */
+    height: 90%;
+    font-weight: bold;
+}
+.mdi-cycle {
+    flex: 1;
+}
+.flex-text2 {
+    display: flex;
+    font-size: 1.1rem;
+    align-items: center;
+    padding-top: 2vh;
+}
+.flex-text2 .image1 {
+    flex: 1;
+}
+.flex-text2 .bullets2 {
+    flex: 2;
+}
+
+h2, h4, .bullets, .bullets2 {
+    color: #1b355a !important;
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+.fin1 {
+    flex: 3;
+    padding-left: 5rem;
+}
+.fin2 {
+    flex: 1;
+    font-weight: normal;
+    padding-left: 5rem;
+}
+.screenshot {
+    background-position: unset !important;
+    text-align: center;
+}
