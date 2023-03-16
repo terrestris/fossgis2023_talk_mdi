@@ -88,7 +88,7 @@ layout: main
 
 ---
 layout: image
-image: /portal-screenshot.png
+image: https://terrestris.github.io/fossgis2023_talk_mdi/portal-screenshot.png
 class: screenshot
 ---
 
